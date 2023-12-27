@@ -12,7 +12,7 @@ JavaScript: A linguagem de programação utilizada para desenvolver os 2 exeplos
 
 ## Faixas de Ranque:
 
-<li>
+
 <ul>Ferro: 0 a 10 vitórias</ul>
 <ul>Bronze: 11 a 20 vitórias</ul>
 <ul>Prata: 21 a 30 vitórias</ul>
@@ -22,7 +22,7 @@ JavaScript: A linguagem de programação utilizada para desenvolver os 2 exeplos
 <ul>Ascendente: 61 a 70 vitórias</ul>
 <ul>Imortal: 71 a 99 vitórias</ul>
 <ul>Radiante: 100 ou mais vitórias</ul>
-</li>
+
 ## Desenvolvimento:
 
 Utilização de estruturas condicionais (if e else if) para determinar o nível do jogador com base no saldo de ranqueadas.
