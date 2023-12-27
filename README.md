@@ -12,15 +12,15 @@ JavaScript: A linguagem de programação utilizada para desenvolver os 2 exeplos
 
 ## Faixas de Ranque:
 
-Ferro: 0 a 10 vitórias
-Bronze: 11 a 20 vitórias
-Prata: 21 a 30 vitórias
-Ouro: 31 a 40 vitórias
-Platina: 41 a 50 vitórias
-Diamante: 51 a 60 vitórias
-Ascendente: 61 a 70 vitórias
-Imortal: 71 a 99 vitórias
-Radiante: 100 ou mais vitórias
+<ul>Ferro: 0 a 10 vitórias</ul>
+<ul>Bronze: 11 a 20 vitórias</ul>
+<ul>Prata: 21 a 30 vitórias</ul>
+<ul>Ouro: 31 a 40 vitórias</ul>
+<ul>Platina: 41 a 50 vitórias</ul>
+<ul>Diamante: 51 a 60 vitórias</ul>
+<ul>Ascendente: 61 a 70 vitórias</ul>
+<ul>Imortal: 71 a 99 vitórias</ul>
+<ul>Radiante: 100 ou mais vitórias</ul>
 
 ## Desenvolvimento:
 
